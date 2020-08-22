@@ -1,9 +1,7 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Daniel Perez Atanacio! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते I'm Daniel Perez Atanacio! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.kimetrics.com">Kimetrics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="http://www.kimetrics.com">Kimetrics</a> 
 </em></p>
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/daniel?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/daniel.perez.atanacio/)](https://www.linkedin.com/in/anmol-p-singh/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

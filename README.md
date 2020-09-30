@@ -32,29 +32,3 @@ const danielpro5 = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: America/Mexico_City
-
-💬 Languages: 
-JavaScript               37 hrs 40 mins      █████████████████░░░░░░░░   90.51% 
-Python                         57 mins       ████░░░░░░░░░░░░░░░░░░░░░    2.11% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░    7.48% 
-
-
-🔥 Editors: 
-WebStorm                39 hrs 32 mins       ██████████████░░░░░░░░░░░   94.31% 
-VS Code                        28 mins       ███░░░░░░░░░░░░░░░░░░░░░░     .50%
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░    4.19%
-
-💻 Operating Systems: 
-OSX                      57 hrs 5 mins       █████████████████████████   95.9%
-WINDOWS                   2 hrs 55 mins      █████████████████░░░░░░░░    4.1%
-
-```
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**

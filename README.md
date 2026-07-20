@@ -8,26 +8,26 @@
 ```javascript
 const danielpro5 = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "php"],
+    code: ["JavaScript", "TypeScript", "Python", "PHP", "SQL", "PrismaJS"],
     askMeAbout: ["web dev", "tech", "app dev", "agro"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["React", "Next", "angularjs", "Svelte"],
-            css: ["bootstrap"]
+            js: ["React", "NextJS", "Angular JS", "Svelte"],
+            css: ["tailwind"]
         },
         backEnd: {
-            js: ["node", "express"],
+            js: ["node", "express", "prismajs", "amplify"],
             php: ["laravel"],
-            python: ["flask"],
+            python: ["Flask", "Amplify"],
             others: ["Hasura"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "postgres"],
+        databases: ["mongo", "MySql", "sqlite", "Postgres"],
         misc: ["Firebase", "Socket.IO", "jest", "Hasura", "cypress"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Mak App",
+    currentProject: "MAK",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```

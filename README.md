@@ -3,6 +3,7 @@
 <p><em>Software Engineer at <a href="http://www.kimetrics.com">Kimetrics</a> 
 </em></p>
 
+<p>Frontend Engineer with expertise in modern web technologies, a Python enthusiast, and a strong advocate for SQL as the foundation of efficient, scalable applications.</p>
 
 ### A little more about me...  
 
